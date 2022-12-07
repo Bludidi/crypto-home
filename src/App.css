@@ -121,7 +121,7 @@ body {
 }
 
 .logo {
-  width: 50%;
+  width: 100%;
   border-radius: 10px;
 }
 
@@ -148,24 +148,24 @@ body {
 }
 
 .bg-wrapper {
-  background: url("./img/coin2.png") no-repeat center;
+  background: url("./img/coin3.png") no-repeat center;
   background-size: contain;
   flex-basis: 12em;
   width: 100%;
   border-radius: 6px;
-  height: 100px;
-  opacity: 0.5;
+  height: 160px;
+  /* opacity: 0.5; */
   flex-grow: 1;
 }
 
 .bg-wrapper2 {
-  background: url("./img/graph1.png") no-repeat center;
+  background: url("./img/graph2.png") no-repeat center;
   background-size: contain;
   flex-basis: 12em;
   width: 100%;
   border-radius: 6px;
-  height: 100px;
-  opacity: 0.5;
+  height: 200px;
+  /* opacity: 0.5; */
 }
 
 .wrapper-content {

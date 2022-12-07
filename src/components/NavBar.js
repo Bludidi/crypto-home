@@ -8,7 +8,7 @@ const NavBar = () => (
       <div className="logo flex">
         <span className="back">
           <span className="back-txt white">
-            <h1 className="logo">CRYPTO</h1>
+            <h1 className="logo">CRYPTO HOME</h1>
           </span>
         </span>
       </div>
