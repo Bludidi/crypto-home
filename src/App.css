@@ -123,6 +123,7 @@ body {
 .logo {
   width: 100%;
   border-radius: 10px;
+  text-shadow: 4px 4px 4px #1d1b1b;
 }
 
 .fa-chevron-left {
