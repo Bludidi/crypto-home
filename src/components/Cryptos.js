@@ -5,7 +5,7 @@ import { FadeLoader } from 'react-spinners';
 import FetchCryptos from '../Redux/Slice/fetchApi';
 import FormatNumber from '../Num_Format/FormatNumber';
 
-const Crytpos = () => {
+const Cryptos = () => {
   const cryptosArr = [];
   const navigate = useNavigate();
   const dispatch = useDispatch();
@@ -141,4 +141,4 @@ const Crytpos = () => {
   );
 };
 
-export default Crytpos;
+export default Cryptos;
