@@ -155,7 +155,6 @@ body {
   width: 100%;
   border-radius: 6px;
   height: 160px;
-  /* opacity: 0.5; */
   flex-grow: 1;
 }
 
@@ -166,7 +165,6 @@ body {
   width: 100%;
   border-radius: 6px;
   height: 200px;
-  /* opacity: 0.5; */
 }
 
 .wrapper-content {
