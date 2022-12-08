@@ -72,7 +72,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](not deployed yet) not yet deployed 
+- [crypto-home](https://hilarious-pasca-2d43e9.netlify.app) 👈 click here
 
 ## 🚀 Video Demo <a name="video-demo"></a>
 [Presentation](https://www.loom.com/share/a892a52749db4a27914d059dce980620) 
