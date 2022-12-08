@@ -75,7 +75,8 @@
 
 - [Live Demo Link](not deployed yet) not yet deployed 
 
-## 🚀 Video Demo <a name="live-demo"></a>
+## 🚀 Video Demo <a name="video-demo"></a>
+[Presentation](https://www.loom.com/share/a892a52749db4a27914d059dce980620) 
 
 
 
