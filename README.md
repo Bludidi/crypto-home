@@ -1,4 +1,3 @@
-## Available Scripts
 <div align="center">
   <img src="murple_logo.png" alt="logo" width="100"  height="auto" />
   <br/> 
