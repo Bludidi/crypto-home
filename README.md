@@ -31,7 +31,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 CRYPTO HOME<a name="about-project"></a>
+## 📖 About the project<a name="about-project"></a>
 
 **CRYPTO HOME** is a web based app built with React-Redux and is using CoinApp API to give data about crypto currencies.
 
