@@ -75,7 +75,7 @@
 - [crypto-home](https://hilarious-pasca-2d43e9.netlify.app) 👈 click here
 
 ## 🚀 Video Demo <a name="video-demo"></a>
-[Presentation](https://www.loom.com/share/a892a52749db4a27914d059dce980620) 
+- [Presentation](https://www.loom.com/share/a892a52749db4a27914d059dce980620) 👈 click here 
 
 
 
@@ -101,7 +101,7 @@ Clone this [repository](https://github.com/Bludidi/crypto-home.git) to your desi
 Install this project with:
 
 - Navigate to the Repo Folder
-- `cd app`
+- `cd crypto-home`
 - Install application dependencies (Node has to be installed)
 - `npm install`
 
@@ -112,14 +112,13 @@ To run the project, execute the following command:
 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, in the terminal run the following command:
 `npm test`
 
 ### Deployment
 
-You can deploy this project using:
-
-Github Pages or Netlify
+This project is deployed with 
+- `Netlify`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
