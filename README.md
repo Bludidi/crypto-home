@@ -1,15 +1,15 @@
 ## Available Scripts
 <div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="murple_logo.png" alt="logo" width="100"  height="auto" />
   <br/> 
 
-  <h3><b>CRYPTO HOME</b></h3>
+  # <h1><b>CRYPTO HOME</b></h1>
 
 </div>
 
 <!-- TABLE OF CONTENTS -->
 
-# 📗 Table of Contents
+## 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
