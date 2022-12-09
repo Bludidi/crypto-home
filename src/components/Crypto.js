@@ -8,7 +8,7 @@ const Crypto = () => {
   const data = state.cryptos;
 
   return (
-    <div className="crypo-container">
+    <div className="crypto-container">
       <div className="wrapper2 flex">
         <div className="bg-wrapper2" />
         <div className="wrapper-content-2 p-two">
