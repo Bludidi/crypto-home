@@ -1,4 +1,4 @@
-import Store from '../Redux/ConfigureStore'
+import Store from '../Redux/ConfigureStore';
 
 describe('Cryptos redux state tests', () => {
   it('Should initially set cryptos to an empty string', () => {

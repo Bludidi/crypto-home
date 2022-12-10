@@ -4,9 +4,8 @@ import { Provider } from 'react-redux';
 import { BrowserRouter as Router } from 'react-router-dom';
 import Cryptos from '../components/Cryptos';
 import Crypto from '../components/Crypto';
-import Store from '../Redux/configureStore';
+import Store from '../Redux/ConfigureStore';
 import '@testing-library/jest-dom';
-
 
 describe('Testing Cryptos page', () => {
   it('Should match the snapshot', () => {
