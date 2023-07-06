@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="murple_logo.png" alt="logo" width="100"  height="auto" />
-  <br/> 
 
-  # <h1><b>CRYPTO HOME</b></h1>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -31,9 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-## 📖 About the project<a name="about-project"></a>
+## 📖 CRYPTO HOME<a name="about-project"></a>
 
-**CRYPTO HOME** is a web based app built with React-Redux and is using CoinApp API to give data about crypto currencies.
+**CRYPTO HOME** is a web-based app built with React-Redux and using CoinApp API to give data about cryptocurrencies.
 
 ## 🛠 Built With <a name="built-with"></a>
 
